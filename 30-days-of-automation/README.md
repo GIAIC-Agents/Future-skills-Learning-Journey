@@ -2,8 +2,11 @@
 Welcome to the 30 Days of Automation challenge! 🚀
 Whether you're a beginner or experienced developer, this challenge will help you learn how to automate tasks, save time, and build smart tools using Python and other cool libraries.
 
+
 🔍 What is Automation?
+
 Automation means making your computer do repetitive tasks automatically — without you doing them manually.
+
 
 ## 🧠 Examples:
 Auto login to websites
@@ -14,6 +17,7 @@ Clicking buttons using bots
 Auto-downloading files
 
 ##  🧠 Why Learn Automation?
+
 ⏳ Save time
 💼 Useful for jobs and freelancing
 💡 Build creative tools and bots
@@ -21,6 +25,7 @@ Auto-downloading files
 🧪 Helps in software testing & web scraping
 
 🔄 How Does Automation Work?
+
 Here's a simple diagram showing how a browser automation process works:
 
 [ Your Script ] --> [ Automation Library ] --> [ Web Browser/Website ] "Write code" "Selenium/Playwright" "Interact with site"
@@ -28,6 +33,18 @@ Here's a simple diagram showing how a browser automation process works:
 ## 🔄 How Does Automation Work?
 Automation Flow Diagram
 
+### 🔄 How Does Automation Work?
+
+![Automation Flow Diagram](./assets/automation-flow.png)
+
+
+
+
+
+
+
+
+  
 Which Liberaries Will we use ?
 💡 Common Libraries: Selenium, Playwright, Requests, PyAutoGUI, BeautifulSoup
 
@@ -37,7 +54,9 @@ Each day has:
 📄 README.md → Task + Learning notes
 🧪 code/ → Python scripts or JSON workflows
 
+
 ## 🚦 Getting Started
+
 Make sure Python is installed ✅
 Clone this repo
 Start from day01/ and do one small task daily
@@ -45,6 +64,8 @@ Push your code and track your progress
 Share your journey on LinkedIn with #30DaysOfAutomation
 
 ## 🧰 Tools You'll Use
+
+
 🐍 Python
 🧪 Selenium
 ⚡ Playwright (Later)
@@ -72,6 +93,6 @@ Day	Topic	Done
 
 ...	...	...
 🤝 Connect
-Made with ❤️ by Hafiz Muneeb![Uploading trends.png…]()
+Made with ❤️ by Hafiz Muneeb & Miss Rubina
 
 Let’s grow together in this automation journey!
