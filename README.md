@@ -63,7 +63,7 @@ Every push, every commit is a step toward a better future. Learn alongside your 
 
 ## 🧑‍💻 Contributors
 
-📌 Special shout-out to **Muneeb Malik** and team for initiating this challenge and creating a platform for growth.  
+📌 Special shout-out to **Muneeb Malik** & **Miss Rubina** and team for initiating this challenge and creating a platform for growth.  
 Classmates like **Rubina** and others are invited to collaborate and make this an open learning revolution! 🌐
 
 ---
