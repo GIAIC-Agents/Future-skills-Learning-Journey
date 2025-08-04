@@ -100,3 +100,13 @@ Handling alerts/popups
 Browser navigation (forward/back)
 
 Better error handling with try/except
+
+---
+
+## 🧑‍💻 Contributors
+
+📌 Special shout-out to **Muneeb Malik** & **Miss Rubina** and team for initiating this challenge and creating a platform for growth.  
+Classmates like **Rubina** and others are invited to collaborate and make this an open learning revolution! 🌐
+
+
+
