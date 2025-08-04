@@ -1,4 +1,4 @@
-# 📅 Day 02 – Interacting with Web Elements and Understanding Waits in Selenium
+#  Interacting with Web Elements and Understanding Waits in Selenium
 ## Difference Between Implicit & Explicit Waits
 ---
 
