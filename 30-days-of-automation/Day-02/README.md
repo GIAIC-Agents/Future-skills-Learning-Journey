@@ -27,7 +27,7 @@ An implicit wait tells WebDriver to wait for a certain amount of time **while fi
 ```python
 driver.implicitly_wait(10)
 
-
+```
 ---
 
 🔸 How It Works:
@@ -90,5 +90,6 @@ Flexibility	Low	High
 
 ### 💡 Pro Tip
 🔸 Do not mix Implicit and Explicit waits too much — it can lead to unpredictable results and timing issues.
+
 
 
