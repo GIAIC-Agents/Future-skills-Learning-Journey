@@ -43,18 +43,21 @@ Your elements usually appear in a few seconds.
 
 You want a simple, global timeout.
 
+----
+
 ## 2️⃣ Explicit Wait
 An explicit wait lets you wait for a specific condition before proceeding.
 
 ### 🔹 Syntax:
-
+```python
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 wait = WebDriverWait(driver, 10)
 element = wait.until(EC.presence_of_element_located((By.ID, "submit")))
+```
 
-
+----
 
 ### 🔸 How It Works:
 
@@ -90,6 +93,7 @@ Flexibility	Low	High
 
 ### 💡 Pro Tip
 🔸 Do not mix Implicit and Explicit waits too much — it can lead to unpredictable results and timing issues.
+
 
 
 
