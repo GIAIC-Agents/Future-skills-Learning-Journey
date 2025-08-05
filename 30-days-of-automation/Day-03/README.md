@@ -41,8 +41,7 @@ Today we explored some **essential real-world use cases** in Selenium that make 
 ## 📁 Folder Structure
 
 
-[Directory](./assets/directory.png)
-
+![Directory Of Day 03 ](./assets/directory.png)
 
 
 
