@@ -40,6 +40,9 @@ Today we explored some **essential real-world use cases** in Selenium that make 
 
 ## 📁 Folder Structure
 
+
+
+
 Day-03/
 │
 ├── waits_demo.py
@@ -48,7 +51,14 @@ Day-03/
 ├── iframe_handling.py
 ├── file_upload.py
 └── README.md
+
+
+
+
+
+
 ---
+
 
 
 ## 🔗 Related Docs
