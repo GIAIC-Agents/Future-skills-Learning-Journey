@@ -111,12 +111,12 @@ README.md              # This documentation file
 
 
 ---
-### 📚 Useful Resources
-Selenium Documentation
 
-undetected-chromedriver GitHub
+## 📚 Useful Resources
 
-Wikipedia: Python (Language)
+- [Selenium Documentation](https://www.selenium.dev/documentation/)
+- [undetected-chromedriver GitHub](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
+- [Wikipedia: Python (Language)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 
 ----
