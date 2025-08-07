@@ -32,6 +32,9 @@ pip install selenium undetected-chromedriver
 from selenium import webdriver
 import undetected_chromedriver as uc
 import time
+
+```
+
 These are required libraries:
 
 selenium: Controls the browser.
