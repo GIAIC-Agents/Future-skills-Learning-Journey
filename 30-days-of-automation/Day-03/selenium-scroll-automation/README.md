@@ -22,10 +22,11 @@ Before running the script, install the following Python packages:
 ```bash
 pip install selenium undetected-chromedriver
 
+```
 ---
 
 ## 🧾 Script Breakdown
-
+```
 ### ✅ Step 1: Import Libraries
 
 from selenium import webdriver
@@ -38,39 +39,39 @@ selenium: Controls the browser.
 undetected_chromedriver: Bypasses bot detection used by websites.
 
 time: Adds delays to simulate human interaction.
-
+```
 
 ### ✅ Step 2: Launch Chrome Browser (Undetected)
-
+```
 driver = uc.Chrome()
 This launches a Chrome browser in a way that helps bypass bot detection systems.
 It’s commonly used on sites that block Selenium-based bots.
-
+```
 ### ✅ Step 3: Visit a Scrollable Website
-
+```
 driver.get("https://en.wikipedia.org/wiki/Python_(programming_language)")
 This navigates to the Wikipedia page about Python, which is long enough to scroll.
-
+```
 ### ✅ Step 4: Wait for Page to Load
-
+```
 time.sleep(10)
 Waits 10 seconds to allow full page load. Adjust if your internet is slower/faster.
-
+```
 ### ✅ Step 5: Scroll Down
-
+```
 driver.execute_script("window.scrollBy(0, 500)")
 Scrolls down by 500 pixels. You can change 500 to any other number for deeper scrolls.
-
+```
 ### ✅ Step 6: Wait to Observe Scroll
-
+```
 time.sleep(10)
 Another pause to let the user see the scroll effect in the browser.
-
+```
 ### ✅ Step 7: Close the Browser
-
+```
 driver.quit()
 Ends the session and closes the browser window.
-
+```
 ---
 
 
